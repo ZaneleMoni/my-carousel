@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Carousel
- * Description:       my first PHP Tutorial
+ * Description:       Handles the custom functions for the carousel plugin
  * Version:           1.10.3
  * Requires at least: 5.2
  * Requires PHP:      7.2
